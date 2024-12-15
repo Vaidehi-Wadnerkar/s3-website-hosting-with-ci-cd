@@ -105,9 +105,7 @@ Ensure you have the following before starting:
 
 ---
 
-### Feedback
 
-Let me know your thoughts, suggestions, or improvements for this project. Happy coding! 🚀
 
 
 
